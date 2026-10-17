@@ -1,0 +1,15 @@
+{
+  "title": "La Ley del Vehículo de Adelante: datos y código de replicación",
+  "upload_type": "software",
+  "description": "Datos y código de replicación del artículo 'La Ley del Vehículo de Adelante: saliencia y percepción del crecimiento económico'. Incluye las tasas de crecimiento del PBI real del Banco Mundial (2023-2025) para 186 a 204 economías, el código que reproduce las tablas y la simulación de Monte Carlo, y las figuras del artículo.",
+  "creators": [
+    {
+      "name": "Cueva Laguna, Jeel Elvis",
+      "affiliation": "Universidad Nacional de Ingeniería"
+    }
+  ],
+  "license": "MIT",
+  "language": "spa",
+  "keywords": ["crecimiento económico", "comparación social", "indicadores económicos", "percepción", "Perú"],
+  "access_right": "open"
+}

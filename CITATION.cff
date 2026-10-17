@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si usa estos datos o este código, cite el artículo y este repositorio."
+title: "La Ley del Vehículo de Adelante: datos y código de replicación"
+authors:
+  - family-names: "Cueva Laguna"
+    given-names: "Jeel Elvis"
+    affiliation: "Universidad Nacional de Ingeniería, Facultad de Ingeniería Económica, Estadística y Ciencias Sociales"
+    # Descomente y complete con su ORCID:
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "1.0.0"
+date-released: "2026-10-17"
+license: MIT
+repository-code: "https://github.com/JeelCueva/ley-vehiculo-adelante"
+keywords:
+  - crecimiento económico
+  - comparación social
+  - indicadores económicos
+  - percepción
+  - Perú
